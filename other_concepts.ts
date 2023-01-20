@@ -4,6 +4,9 @@
 //   mass: number
 //   color: string
 // }
+// interface Fruit {
+//     weight: number
+// }
 
 // class Fruit {
 //   getName() {}
@@ -11,7 +14,7 @@
 //   getmass() {}
 // }
 
-// const fruit = new Fruit()
+// // const fruit = new Fruit()
 
 // const fruits: Fruit[] = [
 //   {
@@ -21,6 +24,7 @@
 //     getName() {},
 //     getColor() {},
 //     getmass() {},
+//     weight:
 //   },
 // ]
 
